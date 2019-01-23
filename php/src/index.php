@@ -1,4 +1,4 @@
-<<?php
+<?php
 $servername = "172.18.0.1:8080";
 $username = "csci459";
 $password = "csci459";
